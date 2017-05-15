@@ -15,5 +15,5 @@ The DataScript library is released under the Eclipse Public License.
 
 - See [its file](datascript-0.15.4.min.js) for details.
 
-The rest is copyright (c) 2016 Benjamin R. Haskell, and released under the
+The rest is copyright (c) 2016-2017 Benjamin R. Haskell, and released under the
 [MIT License](LICENSE).
