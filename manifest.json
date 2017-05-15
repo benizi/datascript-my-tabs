@@ -8,7 +8,8 @@
   "version": "0.0.1",
   "permissions": [
     "activeTab",
-    "tabs"
+    "tabs",
+    "history"
   ],
   "browser_action": {
     "default_title": "DataScript my tabs"
